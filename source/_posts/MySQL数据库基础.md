@@ -1,7 +1,8 @@
 ---
 title: MySQL数据库基础
-date: 2025-01-12 12:55:45
-tags: 数据库,MySQL
+date: 2025-01-08 12:55:45
+tags: MySQL
+categories: 数据库
 ---
 
 

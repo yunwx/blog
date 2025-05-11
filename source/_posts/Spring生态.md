@@ -1,7 +1,8 @@
 ---
 title: Spring生态
 date: 2025-02-17 14:09:41
-tags: Spring
+tags: [Java, Spring, Spring Boot, Mybatis, Spring Cloud, Spring Security]
+categories: Java
 ---
 
 
